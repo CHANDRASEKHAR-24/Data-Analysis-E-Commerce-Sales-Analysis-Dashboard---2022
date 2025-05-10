@@ -2,7 +2,7 @@
 This project analyzes 2022 e-commerce order data using Power BI and Excel. It highlights sales trends across categories, markets, and shipping modes. Key insights help guide future sales and marketing strategies.
 
 
-##📊 E-Commerce Sales Analysis Dashboard - 2022
+#📊 E-Commerce Sales Analysis Dashboard - 2022
 ##Project by: Chandrasekhar H
 
 This project presents an in-depth sales analysis for an e-commerce store using Power BI and MS Excel, focusing on product performance across categories, shipping modes, markets, countries, and customer segments for the year 2022.
