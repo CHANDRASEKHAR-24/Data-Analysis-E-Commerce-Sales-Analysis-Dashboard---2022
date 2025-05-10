@@ -62,7 +62,7 @@ The objective of this dashboard is to:
 
 ## 📈 **Link to Excel Dataset**
 
-👉 [Click to Download ECOMM DATA.xlsx](./ECOMM%20DATA.xlsx)
+👉 I have uploaded in this repository saparatley , u can check it . 
 
 ---
 
