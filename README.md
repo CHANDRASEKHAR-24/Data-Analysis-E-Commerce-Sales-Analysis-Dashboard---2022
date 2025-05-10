@@ -66,6 +66,9 @@ The objective of this dashboard is to:
 
 ---
 
+![Screenshot 2025-05-10 215745](https://github.com/user-attachments/assets/ca981365-39ba-4dd4-8db3-82d92a476cfc)
+
+
 ## 📌 **Conclusion**
 
 The analysis suggests the business should focus its marketing efforts on:
