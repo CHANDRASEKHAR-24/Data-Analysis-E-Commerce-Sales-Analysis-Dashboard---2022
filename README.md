@@ -1,3 +1,7 @@
+**NOTE: IF YOU NEED THE WORKING VIDEO, PDF, OR EXCEL DATA, YOU CAN DOWNLOAD AND VIEW THEM. PLEASE NOTE THAT THESE FORMATS CANNOT BE VIEWED DIRECTLY ON GITHUB.**
+
+---
+
 ## 📊 **E-Commerce Sales Analysis Dashboard - 2022**
 **Project by: Chandrasekhar H**
 
